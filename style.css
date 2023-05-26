@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(223, 168, 159);
+}
+
+
+header {
+    text-align: center;
+    background-color: rgb(170, 58, 38);
+    color: white;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px;
+}
+
+img {
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+}
+
+main, footer {
+    padding: 0 25px;
+}
+
+.highlight {
+    font-family: sans-serif;
+    background-color: rgb(25, 123, 202);
+    color: black;
+}
